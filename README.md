@@ -1,1 +1,32 @@
 # Game_Server-STUDY
+
+## 스터디 소개
+ - 
+
+| 스터디 멤버 | 레포지토리 |
+| :---: | :---: |
+| 김상규 | [GitHub](https://github.com/ggyu0629) |
+| 염예찬 | [GitHub](https://github.com/yyechan0602) |
+| 조은상 | [GitHub](https://github.com/JoEunSang) |
+| 방남현 | [GitHub](https://github.com/bnh5992) |
+| 정소영 | [GitHub](https://github.com/abbiddo) |
+| 김나현 | [GitHub](https://github.com/bluewing0303) |
+
+
+## 스터디 진행 방식
+
+
+## 스터디 규칙
+### 스터디 전
+1. 해당 주차의 주제를 각자 공부하고, 블로그에 포스팅하여 Issue에 링크를 올린다.
+2. Issue에 올릴 때, 본인이 공부하면서 이해가 안되는점, 다같이 토의할 부분이 있으면 함께 올린다.
+
+### 스터디 진행
+1. 발표자는 본인이 발표한 내용과 Issue에 기록된 질문들을 모아 토론한다.
+2. 최종 토론본에는 발표자의 자료와 기록된 질문에 대한 답변을 병합하여 주차 폴더에 업로드한다.
+
+## 진행상황
+| 스터디 회차 | 학습 주제 | 스터디 (예정) 일자 | 진행 여부 |
+| :---: | :---: | :---: | :---: |
+| 1회차 | [1주차](https://github.com/TUK-education-java/study/issues/1) | 2024.1.19 (금) |✔️|
+
