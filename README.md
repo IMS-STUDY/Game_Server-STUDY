@@ -28,5 +28,5 @@
 ## 진행상황
 | 스터디 회차 | 학습 주제 | 최종 회의록 | 스터디 (예정) 일자 | 진행 여부 |
 | :---: | :---: | :---: | :---: | :---: |
-| 1회차 | [1주차](https://github.com/TUK-education-java/study/issues/1) | [최종 회의록](https://github.com/IMS-STUDY/Game_Server-STUDY/blob/main/1week/1%EC%A3%BC%EC%B0%A8) | 2024.1.19 (금) |✔️|
+| 1회차 | [1주차](https://github.com/TUK-education-java/study/issues/1) | [1추자 회의록](https://github.com/IMS-STUDY/Game_Server-STUDY/blob/main/1week/1%EC%A3%BC%EC%B0%A8) | 2024.1.19 (금) |✔️|
 
