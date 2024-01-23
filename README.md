@@ -1,4 +1,4 @@
-# IMS-Study - Game_Server
+# Game_Server Study
 
 ## 스터디 소개
  - 
