@@ -11,7 +11,7 @@
 | 방남현 | [GitHub](https://github.com/bnh5992) |
 | 정소영 | [GitHub](https://github.com/abbiddo) |
 | 김나현 | [GitHub](https://github.com/bluewing0303) |
-
+| 김동현 | [GitHub](https://github.com/belfly1111)  |
 
 ## 스터디 진행 방식
 
